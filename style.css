@@ -1,0 +1,15 @@
+@charset "utf-8";
+body,form,input,h1,p{padding:0; margin:0; border:0; }
+html, body{
+    background-image: url("images/0002.jpg");
+    background-size: cover;
+}
+div{
+	margin: 0px auto;
+	font-size:30px;
+    width: 600px;
+    height: 100%;
+    line-height: 75px;
+    color: green;
+    padding-left: 110px;
+}
